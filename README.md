@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Vishal+Meyyappan+%F0%9F%91%8B;Embedded+Systems+Engineer+%F0%9F%94%A7;Hardware+%2B+AI+%3D+%E2%9A%A1+Pure+Magic;Winner+%7C+Builder+%7C+Innovator+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Vishal+Meyyappan+R+%F0%9F%91%8B;Embedded+Systems+Engineer+%F0%9F%94%A7;Hardware+%2B+AI+%3D+%E2%9A%A1+Pure+Magic;Winner+%7C+Builder+%7C+Innovator+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,6 @@ class Vishal:
     location   = "Chennai, Tamil Nadu 🇮🇳"
     college    = "Chennai Institute of Technology"
     degree     = "B.E. ECE — Advanced Communication Tech"
-    cgpa       = 7.89
 
     languages  = ["Tamil 🌿", "English 🌐",
                   "Mandarin N2 🐉", "German 🔰"]
@@ -47,7 +46,6 @@ class Vishal:
 | 🏆 **Pragyan'26 Hackathon Winner** *(Space & Tech)* | Feb 2026 | NIT Trichy |
 | 🥇 **IEEE Pegasus 4.0 — Hardware Category Winner** | Jan 2026 | MIT Kochi |
 | 🎖️ **Smart India Hackathon 2025 Finalist** | 2025 | AICTE |
-| 📜 **AICTE Chairman Felicitation Certificate** | 2025 | CIT Chennai |
 | 🌏 **Mandarin N2 (TOCFL) Certified** | — | TOCFL |
 | 🎤 **Embedded Linux Workshop Conductor — Vidyutrenz'26** | 2026 | CIT Chennai |
 
@@ -85,24 +83,6 @@ class Vishal:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vishal-r07/CAN-protocol-testing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal-r07&repo=CAN-protocol-testing&theme=tokyonight&border_color=00D9FF" />
-</a>
-&nbsp;
-<a href="https://github.com/vishal-r07/ASL-AI-VK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal-r07&repo=ASL-AI-VK&theme=tokyonight&border_color=00D9FF" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/vishal-r07/Radar-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal-r07&repo=Radar-Detection&theme=tokyonight&border_color=00D9FF" />
-</a>
-
 </div>
 
 <br>
@@ -111,20 +91,20 @@ class Vishal:
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  📡  CAN-Based Distributed Sensor & Control Network                       ║
-║      Multi-node CAN bus · ESP32 + MCP2515 · Priority-based arbitration   ║
+║  📡  CAN-Based Distributed Sensor & Control Network                      ║
+║      Multi-node CAN bus · ESP32 + MCP2515 · Priority-based arbitration    ║
 ║      Real-time sensor exchange · Automotive ECU-style simulation          ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  🤟  ASL → Text / Audio Converter              [FPGA Krias Board]        ║
-║      ML model for real-time Sign Language recognition                    ║
-║      ESP32 + LCD + Windows App · Presented at CIT Simicon Day Aug 2025   ║
+║      ML model for real-time Sign Language recognition                     ║
+║      ESP32 + LCD + Windows App · Presented at CIT Simicon Day Aug 2025    ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
-║  📻  Doppler Radar Prototype        [IMD Internship — Built from Scratch] ║
+║  📻  Doppler Radar Prototype        [IMD Internship — Built from Scratch]║
 ║      ESP32 GUI + Real-time Azimuth/Elevation · AutoCAD 3D design          ║
 ║      Motor tuning · Oscilloscope analysis · Gear mechanics                ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
-║  🎯  Miniature Radar Detection System                                     ║
-║      Arduino + Ultrasonic + Servo · Real-time radar GUI                  ║
+║  🎯  Miniature Radar Detection System                                    ║
+║      Arduino + Ultrasonic + Servo · Real-time radar GUI                   ║
 ║      Wireless angle and distance control interface                        ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -189,51 +169,6 @@ class Vishal:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalmeyyappan@gmail.com)
 
 </div>
-
----
-
-## 🐍 Contribution Snake — Setup Guide
-
-> Add this file to your repo at `.github/workflows/snake.yml` to enable the snake animation above:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Then paste this block at the top of your README where you want the snake:
-
-```markdown
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vishal-r07/vishal-r07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vishal-r07/vishal-r07/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation"
-    src="https://raw.githubusercontent.com/vishal-r07/vishal-r07/output/github-contribution-grid-snake.svg" />
-</picture>
-```
 
 ---
 
