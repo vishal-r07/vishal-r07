@@ -47,7 +47,6 @@ class Vishal:
 | 🥇 **IEEE Pegasus 4.0 — Hardware Category Winner** | Jan 2026 | MIT Kochi |
 | 🎖️ **Smart India Hackathon 2025 Finalist** | 2025 | AICTE |
 | 🌏 **Mandarin N2 (TOCFL) Certified** | — | TOCFL |
-| 🎤 **Embedded Linux Workshop Conductor — Vidyutrenz'26** | 2026 | CIT Chennai |
 
 </div>
 
@@ -87,27 +86,6 @@ class Vishal:
 
 <br>
 
-### 🔬 Project Deep-Dive
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  📡  CAN-Based Distributed Sensor & Control Network                      ║
-║      Multi-node CAN bus · ESP32 + MCP2515 · Priority-based arbitration    ║
-║      Real-time sensor exchange · Automotive ECU-style simulation          ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║  🤟  ASL → Text / Audio Converter              [FPGA Krias Board]        ║
-║      ML model for real-time Sign Language recognition                     ║
-║      ESP32 + LCD + Windows App · Presented at CIT Simicon Day Aug 2025    ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║  📻  Doppler Radar Prototype        [IMD Internship — Built from Scratch]║
-║      ESP32 GUI + Real-time Azimuth/Elevation · AutoCAD 3D design          ║
-║      Motor tuning · Oscilloscope analysis · Gear mechanics                ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║  🎯  Miniature Radar Detection System                                    ║
-║      Arduino + Ultrasonic + Servo · Real-time radar GUI                   ║
-║      Wireless angle and distance control interface                        ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
