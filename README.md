@@ -127,16 +127,6 @@ class Vishal:
 
 ---
 
-## 📜 Certifications
-
-- 🐍 **PCAP** — Python Essentials · *Cisco Networking Academy × OpenEDG Python Institute*
-- 🔵 **CLA** — C Programming Essentials · *Cisco Networking Academy*
-- ⚙️ **Learning Arduino: Foundation** · *LinkedIn Learning*
-- 🤖 **Supervised Machine Learning** *(Regression + Classification)* · *Stanford University × DeepLearning.AI on Coursera*
-- 📋 **Aha! Product Management Professional** · *NASBA × PMI · LinkedIn*
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
