@@ -15,7 +15,7 @@
 class Vishal:
     name       = "Vishal Meyyappan R"
     role       = "Embedded Systems + AI Engineer"
-    location   = "Chennai, Tamil Nadu 🇮🇳"
+    location   = "Tainan, Taiwan 🇹🇼"
     college    = "Chennai Institute of Technology"
     degree     = "B.E. ECE — Advanced Communication Tech"
 
